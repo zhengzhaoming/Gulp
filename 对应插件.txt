@@ -1,0 +1,8 @@
+﻿npm install gulp -g	//全局
+npm install gulp --save-dev	//局部安装gulp (-dev仅开发时使用)
+npm install gulp-sass --save-dev	//安装sass编译css插件
+cnpm install gulp-less --save-dev	//安装less编译css插件
+cnpm install gulp-concat --save-dev	//安装合并js文件插件
+cnpm install gulp-htmlmin --save-dev	//安装压缩html插件
+cnpm install gulp-uglify --save-dev	//安装压缩js插件
+cnpm install gulp-minify-css --save-dev	//安装压缩css插件
